@@ -1,0 +1,8 @@
+Hosting
+authentication
+Database
+- firestore database
+  firebase.firestore().collection().add({})
+
+
+npm install firebase
